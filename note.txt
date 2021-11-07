@@ -1,0 +1,4 @@
+https://pjreddie.com/darknet/yolo/
+
+Model:YOLOv3-416
+The yolov3.cfg and yolov3.weights files should be downloaded
